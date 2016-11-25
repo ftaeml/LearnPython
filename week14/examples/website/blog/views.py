@@ -51,7 +51,10 @@ def search(request):
     context.update(get_categories())
     return render(request, "blog/index.html", context)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/master
 @login_required
 def create(request):
     if request.method == 'POST':

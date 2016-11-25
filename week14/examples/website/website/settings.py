@@ -130,4 +130,8 @@ CRISPY_TEMPLATE_PACK = 'bootstrap3'
 
 LOGIN_REDIRECT_URL = "index"
 LOGIN_URL = "blog_login"
+<<<<<<< HEAD
 LOGOUT_URL = "blog_logout"
+=======
+LOGOUT_URL = "blog_logout"
+>>>>>>> refs/remotes/origin/master
